@@ -5,6 +5,7 @@
 - You can **adjust the number of pages** to crawl in the notebook to increase content coverage.
 - To crawl a different site, simply **update the `base_url`** in the notebook.
 
+<a href="https://colab.research.google.com/github/balnarendrasapa/search-engine/blob/main/Search_Engine_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Example
 ![image](https://github.com/user-attachments/assets/e2a0ac53-fc13-47a9-9d38-8f0082a58c39)
