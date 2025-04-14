@@ -5,7 +5,7 @@
 - You can **adjust the number of pages** to crawl in the notebook to increase content coverage.
 - To crawl a different site, simply **update the `base_url`** in the notebook.
 
-# Deployed at Huggingface.
+# Deployed at Huggingface Spaces.
 - Follow this [link](https://huggingface.co/spaces/bnsapa/search_engine)
 
 ## Open in Google Colab
